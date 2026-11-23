@@ -1,0 +1,7 @@
+data/
+reports/smoke/
+.venv/
+__pycache__/
+*.pyc
+catboost_info/
+*.log
